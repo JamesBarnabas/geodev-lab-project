@@ -60,7 +60,7 @@ response and flood-risk reduction.
 
 
 
-\- Digital Elevation Model  - portal.opentopography.org
+\- Digital Elevation Model - https://portal.opentopography.org
 
 \- Sentinel-1 SAR - https://dataspace.copernicus.eu/data-collections/copernicus-sentinel-missions/sentinel-1, earthengine.google.com
 
@@ -76,7 +76,7 @@ response and flood-risk reduction.
 
 \- Field GPS observations - On ground GPS observations when needed. 
 
-\- Administrative boundaries - data.grid3.org
+\- Administrative boundaries - https://data.grid3.org
 
 
 
