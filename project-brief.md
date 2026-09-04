@@ -68,7 +68,7 @@ response and flood-risk reduction.
 
 \- Rainfall/Meteorological data - https://data.chc.ucsb.edu/products/CHIRPS/v3.0
 
-\- OpenStreetMap-https://www.openstreetmap.org, download.geofabrik.de/africa/nigeria.html
+\- OpenStreetMap-https://www.openstreetmap.org, https://download.geofabrik.de/africa/nigeria.html
 
 \- Population data- https://www.worldpop.org
 
