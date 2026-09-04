@@ -70,7 +70,7 @@ response and flood-risk reduction.
 
 \- OpenStreetMap-https://www.openstreetmap.org, download.geofabrik.de/africa/nigeria.html
 
-\- Population data- worldpop.org
+\- Population data- https://www.worldpop.org
 
 \- Historical flood extents - Research works on Lokoja
 
