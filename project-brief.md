@@ -62,7 +62,7 @@ response and flood-risk reduction.
 
 \- Digital Elevation Model - https://portal.opentopography.org
 
-\- Sentinel-1 SAR - https://dataspace.copernicus.eu/data-collections/copernicus-sentinel-missions/sentinel-1, earthengine.google.com
+\- Sentinel-1 SAR - https://dataspace.copernicus.eu/data-collections/copernicus-sentinel-missions/sentinel-1, https://earthengine.google.com
 
 \- Sentinel-2 -https://dataspace.copernicus.eu/data-collections/copernicus-sentinel-missions/sentinel-2
 
