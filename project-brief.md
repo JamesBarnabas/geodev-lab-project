@@ -6,7 +6,7 @@
 
 
 
-Which built-up areas of Lokoja are mostly affected by flooding,
+Which built-up areas of Lokoja Town are mostly affected by flooding,
 
 and what physical and urban characteristics distinguish these
 
@@ -84,7 +84,7 @@ response and flood-risk reduction.
 
 
 
-A GIS-based Lokoja Flood Watch system that maps historical flood
+A GIS-based Lokoja Town Flood Watch system that maps historical flood
 
 extent, identifies recurring flood hotspots and estimates exposed
 
