@@ -20,6 +20,6 @@
 ## GLOBAL COPERNICUS 30M ELEVATION DATA
 - Source: Extracted from opentopography plugin in QGIS
 - Covered my area of study
--
+- 30 m resolution
 
 
