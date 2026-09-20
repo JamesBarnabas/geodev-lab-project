@@ -16,9 +16,7 @@
 - Not all the features had the surface categorized as paved or unpaved. 
 - However, all the highway categories was well represented, with no null values. 
 - The LGA roads was covered showing high features in the built-up areas and sparse road in rural or vegetated areas. 
-- Current State: Most of the roads were covered, covering  about 2024 till date
-- Positional: raods align well with satellite imagery
-- FITNESS: Adequate for checking infrastructure affected during flood, not adequate for road characteristics questions.
+-
 
 ## GLOBAL COPERNICUS 30M ELEVATION DATA
 - Source: Extracted from opentopography plugin in QGIS
@@ -28,6 +26,13 @@
 ## CRS AND PREPARATION
 - All source layers arrived in EPSG: 4326
 - Study area: Lokoja LGA, extracted from GRID3 LGA 
-- All layers clipped to study area, then reporjected to EPSG: 32632 (UTM 32N)
+- All layers clipped to study area, then reprojected to EPSG: 32632 (UTM 32N), this was done to put get the measurements well defined and accurate, road layers clipped to the LGA to ensure that all the analysis sticks within the area of interest. 
 - Area check: Lokoja Area 3187 km2, matches published figure. 
-- Working files in data/processed/, raw files untouched. 
+- Working files in data/processed/, raw files untouched.
+
+  ##  QUALITY CHECKS
+- COMPLETENESS: Checked most of the major roads, with no null values covering majorly the urban area which makes it useful for the analysis.
+- CURRENT STATE: Most of the roads were covered, covering  about 2024 till date
+- Positional: raods align well with satellite imagery
+- Attribute Accuracy: The roads seems okay, and well labelled, however the road names are not that correct, and shouldn't be used for decision making.
+- FITNESS: Adequate for checking infrastructure affected during flood, not adequate for road characteristics or quality questions. 
