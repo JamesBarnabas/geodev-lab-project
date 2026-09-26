@@ -1,0 +1,25 @@
+# Month 1 summarY
+
+## Question[cite: 2]
+- What does a 2000m distance from the road show? 
+-I chose this question because going forward i might want to understand how many buildings fall within a flood prone area, or distance of buildings from a river channel/stream, i needed to see how the buffering analysis work. 
+
+## Operation
+- Buffered open street map road shapefile by 2,000 m then checked and dissolved it to understand how buffering works. 
+
+## Expected
+- I wanted to see what the buffer looks like across all the roads and buildings that can be seen within falling within this distance from the road. 
+
+## Surprises
+- The roads were not covered in all part of the LGA, hence some areas didn't have buffer especially for places with low built up areas. 
+
+## Limitations
+- I haven't gotten my other data like river data, stream and other river analysis to allow me buffer based on what I'm working on. 
+- However, I understand the concept of buffering now, and can do it when i'm working with my Data in the coming weeks. 
+
+## What I still need
+-I need to be able to get my stream, river data out, and buffer based on the acceptable distance I want to work on. 
+-This is because there's no DEM analysis done yet. 
+
+## Additional work
+- I tried to use my geographic CRS layer to do the buffering, it came out but it gave a round ring that didn't stop loading. Because it was in degrees. 
