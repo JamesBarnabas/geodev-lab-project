@@ -25,3 +25,6 @@ See project-brief.md for the full brief.
 # WEEK 4
 
 MONTH 1 SUMMARY
+
+## Month 2: Create and set up the development environment and early Python
+- Week 5: set up Python, VS Code and the terminal. hello.py runs. 
