@@ -36,4 +36,4 @@ MONTH 1 SUMMARY
 - Learnt about functions, variables, and loops with the code in analyse.py
 - Leant how to read CSV file using python code, generated a CSV file with the title wards.csv
 - The code converts each area and classified the ward into large or small. 
-- 
+
