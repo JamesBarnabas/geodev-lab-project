@@ -31,4 +31,9 @@ MONTH 1 SUMMARY
 # WEEK 6
 - set up the project with uv and added pandas.
 - check.py prints the pandas version 
+# Week 7
 
+- Learnt about functions, variables, and loops with the code in analyse.py
+- Leant how to read CSV file using python code, generated a CSV file with the title wards.csv
+- The code converts each area and classified the ward into large or small. 
+- 
