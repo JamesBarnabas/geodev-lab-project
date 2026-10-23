@@ -1,0 +1,30 @@
+full_id,osm_id,osm_type,amenity,public_tra,bus,fountain,drinking_w,name_en,tenant,fuel_octan,fuel_diese,branch,denominati,addr_house,drive_thro,religion,image,commercial,opening_ho,wheelchair,toilets_di,male,female,access,internet_a,internet_1,operator,healthcare,shop,landuse,building_l,addr_stree,addr_city,building,atm,name,healthca_1,area,area_1,area_km2
+w617512416,"617512416",way,hospital,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Kogi State Specialist Hospital, Lokoja",hospital,18651,18651,24
+w617655660,"617655660",way,bank,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,Wema Bank,,,296,67
+w632763108,"632763108",way,pharmacy,,,,,,,,,,,,,,,,,,,,,,,,,,supermarket,commercial,"3",Ibb way,Lokoja,yes,,Chucks Shopping Mall,,,96,98
+w636153576,"636153576",way,school,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10300,89
+w636993002,"636993002",way,school,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8254,89
+w639483780,"639483780",way,school,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8367,45
+w640127407,"640127407",way,school,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8664,12
+w640127413,"640127413",way,school,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20567,34
+w773166778,"773166778",way,hospital,,,,,,,,,,,,,,,,,,,,,,,,Kogi State Government,general,,,,Ibb way,,,,Specialist Hospital,hospital,,858,23,332
+w852462906,"852462906",way,library,,,,,,,,,,,,,,,,,,,,,,no,wlan,,,,,,,,yes,,Library,,,1104,455
+w852462907,"852462907",way,toilets,,,,,,,,,,,,,,,,,no,flush,yes,yes,yes,,,,,,,,,,yes,,,,,67,2343
+w852462915,"852462915",way,toilets,,,,,,,,,,,,,,,,,no,flush,yes,yes,yes,,,,,,,,,,yes,,,,,57,2343
+w852462926,"852462926",way,toilets,,,,,,,,,,,,,,,,,no,flush,yes,yes,yes,,,,,,,,,,yes,,,,,50,2343
+w1111237445,"1111237445",way,bank,,,,,,,,,,,,,,,,Mo-Fr 08:00-17:00,,,,,,,,UBA,,,,,Along IBB Way,Lokoja,yes,yes,United Bank of Africa,,,306,23
+w1111237455,"1111237455",way,bank,,,,,,,,,,,,,,,,Mo-Fr 08:00-17:00,,,,,,,,Union Bank,,,,,Along IBB Way,Lokoja,yes,yes,Union Bank,,,115,343
+w1111237475,"1111237475",way,place_of_worship,,,,,,,,,,,,,muslim,https://www.mapillary.com/app/?pKey=1051455809953283&focus=photo,Petrol_station,,,,,,,,,,,,,"1",,,yes,,,,,36,14
+w1111991413,"1111991413",way,police,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,82
+w1113435755,"1113435755",way,bank,,,,,,,,,,,,no,,,,Mo-Fr 08:00-17:00,,,,,,,,GTCo,,,,,Along IBB Way,Lokoja,yes,yes,Guarantee Trust Bank,,,351,44
+w1117081060,"1117081060",way,place_of_worship,,,,,,,,,,pentecostal,No. 1,,christian,,,,,,,,,,,,,,,,Faithview Avenue,Lokoja,yes,,Faithview Church,,,659,788884
+w1121682947,"1121682947",way,post_office,,,,,,,,,"GPO, Lokoja",,,,,,,Mo-Fr 08:00-17:00,,,,,,,,"Nigeria Postal Service;Nirsal MicroFinance Bank",,,,,"Ibb way, Opposite First Bank",Lokoja,yes,,General Post Office,,,558,3343
+w1122613549,"1122613549",way,bank,,,,,,,,,,,,no,,,,Mo-Fr 08:00-17:00,,,,,,,,First Bank,,,,,"Ibb way, Opposite Post Office",Lokoja,yes,yes,First Bank of Nigeria,,,328,4555
+w1330980269,"1330980269",way,fuel,,,,,,Barbing Salon,yes,yes,,,,,,,,,,,,,,,,KY Oil & Gas,,,,,Along IBB  Way,Lokoja,industrial,,KY Oil & Gas Ltd.,,,367,234
+w1545832021,"1545832021",way,place_of_worship,,,,,ALHAJI ABDUHLLAHI HABIB MEMORIAL MOSQUE,,,,,,,,muslim,https://drive.google.com/file/d/1-IomyqxkmPIt5H9sMOr1GKS10lDKXIw9/view?usp=drive_link,,,,,,,,,,,,,,,,,mosque,,Central Mosque,,,352,233
+w1545832022,"1545832022",way,clinic,,,,,Medical Centre,,,,,,,,,https://drive.google.com/file/d/1hFAZ1f_-pGBWuSWG5hCJOa_rVBc5Rpx3/view?usp=drive_link,,,,,,,,,,,,,,,,,yes,,School Clinic,clinic,,695,343
+w1545832023,"1545832023",way,toilets,,,,,,,,,,,,,,,,,limited,flush,yes,yes,yes,,,,,,,,,,yes,,,,,81,544
+w1545832024,"1545832024",way,fountain,,,decorative,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Social Science,,,123,323
+w1545832029,"1545832029",way,place_of_worship,,,,,,,,,,catholic,,,christian,https://drive.google.com/file/d/1zuevonyq6WEoudeoUwp0xXgkNBCy7QyG/view?usp=drive_link,,,,,,,,,,,,,,,,,yes,,St Francisca Hall,,,242,343
+w1545832030,"1545832030",way,bus_station,station,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,garage,,,,,1697,124
+w1545832033,"1545832033",way,marketplace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,commercial,,Market,,,1619,9999
