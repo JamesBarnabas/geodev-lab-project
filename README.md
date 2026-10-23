@@ -37,3 +37,8 @@ MONTH 1 SUMMARY
 - Leant how to read CSV file using python code, generated a CSV file with the title wards.csv
 - The code converts each area and classified the ward into large or small. 
 
+# Week 8
+- Inspect_data.py summarizes area in two different columns in my_data.csv which is a data for amenities gotten from OSM.
+- Learnt how to additionally read CSV file, check and catch for issues like no data, None or Valuetype Error.
+- The code runs and gives the summary statistics of two different area columns. 
+
