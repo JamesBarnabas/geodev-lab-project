@@ -49,3 +49,10 @@ MONTH 1 SUMMARY
   - Currently, the whole idea is still fuzzy, because I'm not sure I can write all the codes from head, but at least i know where to start from, how to use uv, how to arrange my vs code using terminals, and how to properly organize my codes. With time and more practice, I will understand more of what needs to be done.
   - I was able to read my amenity shapefile, it shows me the area of the amenities, the maximum area of the amenities in my study area  which is about 20567 sq.km, and the minimum being 36.0, with a count of 29 amenities recorded in the dataset. The amenities includes hospital, schools, bank, pharmacy, and few others. Although not complete, based on the Open street Map data, but it allowed me to see what is existing, and I have a knowledge of my amenities data right now. 
 
+## Month 3: Geospatial Python and automation 
+# Week 10: Set up Geopandas and automation
+- Loaded Geopandas successfully and checked.
+- Learnt how to import geopackages, csv using geopandas and pandas. 
+- uv and git installed successfully
+- joined and mapped my ward layer and settlement layer using python code. 
+- Learnt how to commit to my github from my vscode. 
