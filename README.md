@@ -55,4 +55,12 @@ MONTH 1 SUMMARY
 - Learnt how to import geopackages, csv using geopandas and pandas. 
 - uv and git installed successfully
 - joined and mapped my ward layer and settlement layer using python code. 
-- Learnt how to commit to my github from my vscode. 
+- Learnt how to commit to my github from my vscode.
+
+# Week 11: CRS AND SPATIAL OPERATIONS
+- Reprojected my layers to 32632 - Projected coordinate system. which is the ideal CRS for Lokoja
+- Analysed settlements that fall in within each word using sjoin and groupby operations. Which shows how many settlement were within the boundary of each word.
+- Used merge and total count to note if all the settlements fall within the wards boundaries, and used it to get more information about my data. (There were two settlments outside of the ward boundary)
+- Measured the distance of each settlements to the nearest rivers using the nearest operator in geopandas.
+- Created a png map that shows the nearest settlements by colour coding it.
+- Exported a layer to the processed folder (nearest_settlements_to_rivers.gpkg). 
