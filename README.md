@@ -64,3 +64,8 @@ MONTH 1 SUMMARY
 - Measured the distance of each settlements to the nearest rivers using the nearest operator in geopandas.
 - Created a png map that shows the nearest settlements by colour coding it.
 - Exported a layer to the processed folder (nearest_settlements_to_rivers.gpkg). 
+
+# WEEK 12: 
+- Imported my rasters 
+- Calculated NDVI index for my study area
+- Summarized it per ward. 
